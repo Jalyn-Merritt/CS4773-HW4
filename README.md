@@ -9,7 +9,7 @@ At program initialization the user is met with a window that displays team and s
 The program follows a MVVM structure and utilizes Facade and Observer patterns. 
 
 # Diagram
-![alt text](https://github.com/Jalyn-Merritt/CS4773-HW5/blob/main/assignment4UML.jpg?raw=true)
+![alt text](https://github.com/Jalyn-Merritt/CS4773-HW4/blob/main/assignment4UML.jpg?raw=true)
 
 # Inputs
 Legal input for the team editor window operates as such:
