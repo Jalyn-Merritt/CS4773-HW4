@@ -8,7 +8,9 @@ At program initialization the user is met with a window that displays team and s
 
 The program follows a MVVM structure and utilizes Facade and Observer patterns. 
 General functionalities of the structure and design can be viewed at the below links:
+
 MVVM: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+
 Design patterns: https://refactoring.guru/design-patterns/facade | https://refactoring.guru/design-patterns/observer
 
 # Diagram
