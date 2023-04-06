@@ -21,4 +21,4 @@ Legal input for the team editor window operates as such:
   - Modification Date: A date (including time) automatically set by your program every time the model data changes. The format is yyyy-mm-dd hh:mm:ss (hh is military/24 hr. time format). The default is the date when the object is created.
 
 # Misc.
-This program is a Maven Java project, the zip file 'hw4.zip' within the repository will contain the pom.xml file, UML diagram, and source code for the program.
+This program is a Maven Java project, the zip file 'hw4.zip' within the repository will contain the pom.xml file, UML diagram, and source code for the program. Additionally, the most recent version of JavaFX should be used to interact with this project.
